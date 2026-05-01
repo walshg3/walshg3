@@ -18,3 +18,7 @@ I write about security, infrastructure, and teaching at [gregwalsh.tech](https:/
 - [LinkedIn](https://linkedin.com/in/gregwalsh96)
 - [X / Twitter](https://x.com/gregwalsh96)
 - [gregwalsh96@gmail.com](mailto:gregwalsh96@gmail.com)
+
+---
+
+[![Profile views](https://komarev.com/ghpvc/?username=walshg3&color=yellow&style=for-the-badge)](https://github.com/walshg3)
