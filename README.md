@@ -1,6 +1,6 @@
 ## Hi, I'm Greg 👋
 
-I work within Global Cybersecurity at State Street Corporation, where I work on PKI, CLM, Key and Encryption Governance. I previously worked as a Security Engineer for the Federal Aviation Administration working on PKI infrastructure for the National Airspace System. On the side I run an MSP partnership, teach computer science as an adjunct professor, and tinker in my homelab.
+I work within Global Cybersecurity at State Street Corporation, where I work on PKI, CLM, Key and Encryption Governance. I previously worked as a Security Engineer for the Federal Aviation Administration working on PKI infrastructure for the National Airspace System. On the side I help run an MSP, teach computer science as an adjunct professor, and tinker in my homelab.
 
 I write about security, infrastructure, and teaching at [gregwalsh.tech](https://gregwalsh.tech).
 
